@@ -1,0 +1,174 @@
+{
+  "url": "https://www.senate.gov/reference/resources/pdf/87res.pdf",
+  "created_date": "2023-03-19T08:00:00.000Z",
+  "congress": 87,
+  "session": 2,
+  "report_date": "1962-10-13T05:00:00.000Z",
+  "legislative_activity": {
+    "start_date": "1962-01-10T05:00:00.000Z",
+    "end_date": "1962-10-13T05:00:00.000Z",
+    "senate": {
+      "days_in_session": 177,
+      "time_in_session": "PT1159H22M",
+      "congressional_record": {
+        "pages_of_proceedings": 13704
+      },
+      "public_bills_enacted_into_law": 167,
+      "private_bills_enacted_into_law": 141,
+      "measures_passed_total": {
+        "total": 1212,
+        "senate_bills": 375,
+        "house_bills": 284,
+        "senate_joint_resolutions": 33,
+        "house_joint_resolutions": 25,
+        "senate_concurrent_resolutions": 19,
+        "house_concurrent_resolutions": 38,
+        "simple_resolutions": 146
+      },
+      "measures_reported_total": {
+        "total": 1312,
+        "senate_bills": 425,
+        "house_bills": 228,
+        "house_joint_resolutions": 25,
+        "house_concurrent_resolutions": 38,
+        "simple_resolutions": 195
+      },
+      "special_reports": 29,
+      "conference_reports": 70,
+      "measures_pending_on_calendar": 50,
+      "measures_introduced_total": {
+        "total": 1494,
+        "bills": 1166,
+        "joint_resolutions": 93,
+        "concurrent_resolutions": 43,
+        "simple_resolutions": 192
+      },
+      "quorum_calls": 82,
+      "yea_and_nay_votes": 227,
+      "bills_vetoed": 4,
+      "vetoes_overridden": 0
+    },
+    "house": {
+      "days_in_session": 157,
+      "time_in_session": "PT656H48M",
+      "congressional_record": {
+        "pages_of_proceedings": 8548,
+        "extensions_of_remarks": 0
+      },
+      "public_bills_enacted_into_law": 317,
+      "bills_in_conference": 2,
+      "measures_passed_total": {
+        "total": 1190,
+        "senate_bills": 284,
+        "house_bills": 623,
+        "senate_joint_resolutions": 26,
+        "house_joint_resolutions": 29,
+        "senate_concurrent_resolutions": 13,
+        "house_concurrent_resolutions": 34,
+        "simple_resolutions": 181
+      },
+      "measures_reported_total": {
+        "total": 1143,
+        "senate_bills": 228,
+        "house_bills": 683,
+        "house_joint_resolutions": 33,
+        "house_concurrent_resolutions": 26,
+        "simple_resolutions": 145
+      },
+      "special_reports": 75,
+      "conference_reports": 0,
+      "measures_pending_on_calendar": 88,
+      "measures_introduced_total": {
+        "total": 4796,
+        "bills": 3940,
+        "joint_resolutions": 315,
+        "concurrent_resolutions": 184,
+        "simple_resolutions": 357
+      },
+      "quorum_calls": 169,
+      "yea_and_nay_votes": 0,
+      "recorded_votes": 124,
+      "bills_vetoed": 8,
+      "vetoes_overridden": 0
+    },
+    "total": {
+      "measures_passed_total": {
+        "total": 1402
+      },
+      "measures_reported_total": {
+        "total": 2255
+      },
+      "measures_introduced_total": {
+        "total": 6290
+      }
+    }
+  },
+  "disposition_of_executive_nominations": {
+    "start_date": "1962-01-10T05:00:00.000Z",
+    "end_date": "1962-10-13T05:00:00.000Z",
+    "postmaster_nominees": {
+      "total": 1326,
+      "disposition": {
+        "confirmed": 1177,
+        "withdrawn": 12,
+        "unconfirmed": 137
+      }
+    },
+    "civilian_nominees": {
+      "total": 3418,
+      "carried_over_from_first_session": 2,
+      "disposition": {
+        "confirmed": 3392,
+        "withdrawn": 5,
+        "unconfirmed": 21,
+        "returned_to_white_house": null
+      }
+    },
+    "air_force_nominees": {
+      "total": 17483,
+      "disposition": {
+        "confirmed": 17482,
+        "returned_to_white_house": null
+      }
+    },
+    "army_nominees": {
+      "total": 9880,
+      "carried_over_from_first_session": null,
+      "disposition": {
+        "confirmed": 9878,
+        "withdrawn": 0,
+        "returned_to_white_house": 2
+      }
+    },
+    "navy_nominees": {
+      "total": 16006,
+      "carried_over_from_first_session": null,
+      "disposition": {
+        "confirmed": 16005,
+        "returned_to_white_house": null
+      }
+    },
+    "marine_corps_nominees": {
+      "total": 3713,
+      "disposition": {
+        "confirmed": 3713,
+        "returned_to_white_house": null
+      }
+    },
+    "summary": {
+      "total_nominees_carried_over_from_first_session": 2,
+      "total_nominees_received_this_session": 52077,
+      "total_confirmed": 51780,
+      "total_unconfirmed": 291,
+      "total_withdrawn": 8
+    }
+  },
+  "footnote": {
+    "resume.legislative_activity.senate.measures_reported_total.total": "These figures on measures reported include all placed on calendar or acted on by Senate even if there was no accompanying report. In the Senate 1,116 reports were filed during the first session and 1,174 in the second session; while the House filed 1,283 in the first session and 1,288 in the second session.",
+    "resume.legislative_activity.house.measures_reported_total.total": "These figures on measures reported include all placed on calendar or acted on by Senate even if there was no accompanying report. In the Senate 1,116 reports were filed during the first session and 1,174 in the second session; while the House filed 1,283 in the first session and 1,288 in the second session.",
+    "resume.legislative_activity.senate.reported_measures_not_acted_on": "This figure does not agree with the total difference between bills reported and bills passed, because resolutions and bills placed on the House Calendar without having been formally reported were not included in figures of measures reported to the House; the difference in the case of Senate figures is due to uncounted bills 'laid on the table' or 'indefinitely postponed.' Reported measures not acted on include measures reported during first session. These data include bills on calendar and in conference at the end of the first session.",
+    "resume.legislative_activity.house.reported_measures_not_acted_on": "This figure does not agree with the total difference between bills reported and bills passed, because resolutions and bills placed on the House Calendar without having been formally reported were not included in figures of measures reported to the House; the difference in the case of Senate figures is due to uncounted bills 'laid on the table' or 'indefinitely postponed.' Reported measures not acted on include measures reported during first session. These data include bills on calendar and in conference at the end of the first session.",
+    "resume.legislative_activity.senate.special_reports": "Subsequent to sine die adjournment 14 House special reports were filed and are included in above figure.",
+    "resume.legislative_activity.house.special_reports": "Subsequent to sine die adjournment 14 House special reports were filed and are included in above figure."
+  }
+}

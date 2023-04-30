@@ -1,0 +1,176 @@
+{
+    "url": "https://www.senate.gov/reference/resources/pdf/89res.pdf",
+    "created_date": "2023-03-19T08:00:00.000Z",
+    "congress": 89,
+    "session": 1,
+    "report_date": "1966-10-22T05:00:00.000Z",
+    "legislative_activity": {
+        "start_date": "1965-01-04T05:00:00.000Z",
+        "end_date": "1965-10-23T05:00:00.000Z",
+        "senate": {
+            "days_in_session": 177,
+            "time_in_session": "PT960H50M",
+            "congressional_record": {
+                "pages_of_proceedings": 15640
+            },
+            "public_bills_enacted_into_law": 98,
+            "private_bills_enacted_into_law": 71,
+            "bills_in_conference": 1,
+            "bills_through_conference": 18,
+            "measures_passed_total": {
+                "total": 967,
+                "senate_bills": 367,
+                "house_bills": 382,
+                "senate_joint_resolutions": 25,
+                "house_joint_resolutions": 23,
+                "senate_concurrent_resolutions": 27,
+                "house_concurrent_resolutions": 38,
+                "simple_resolutions": 105
+            },
+            "measures_reported_total": {
+                "total": 1035,
+                "senate_bills": 392,
+                "house_bills": 376,
+                "senate_joint_resolutions": 26,
+                "house_joint_resolutions": 23,
+                "senate_concurrent_resolutions": 26,
+                "house_concurrent_resolutions": 41,
+                "simple_resolutions": 151
+            },
+            "special_reports": 24,
+            "reported_measures_not_acted_on": 15,
+            "measures_introduced_total": {
+                "total": 3084,
+                "bills": 2731,
+                "joint_resolutions": 122,
+                "concurrent_resolutions": 67,
+                "simple_resolutions": 164
+            },
+            "quorum_calls": 45,
+            "yea_and_nay_votes": 259,
+            "bills_vetoed": 1
+        },
+        "house": {
+            "days_in_session": 177,
+            "time_in_session": "PT798H25M",
+            "congressional_record": {
+                "pages_of_proceedings": 11978
+            },
+            "public_bills_enacted_into_law": 251,
+            "private_bills_enacted_into_law": 143,
+            "bills_in_conference": 2,
+            "bills_through_conference": 46,
+            "measures_passed_total": {
+                "total": 1133,
+                "senate_bills": 158,
+                "house_bills": 611,
+                "senate_joint_resolutions": 18,
+                "house_joint_resolutions": 30,
+                "senate_concurrent_resolutions": 22,
+                "house_concurrent_resolutions": 42,
+                "simple_resolutions": 252
+            },
+            "measures_reported_total": {
+                "total": 1086,
+                "senate_bills": 131,
+                "house_bills": 694,
+                "senate_joint_resolutions": 7,
+                "house_joint_resolutions": 28,
+                "senate_concurrent_resolutions": 14,
+                "house_concurrent_resolutions": 30,
+                "simple_resolutions": 182
+            },
+            "special_reports": 60,
+            "conference_reports": 64,
+            "reported_measures_not_acted_on": 43,
+            "measures_introduced_total": {
+                "total": 13798,
+                "bills": 11856,
+                "joint_resolutions": 788,
+                "concurrent_resolutions": 528,
+                "simple_resolutions": 626
+            },
+            "quorum_calls": 182,
+            "yea_and_nay_votes": 201,
+            "bills_vetoed": 6
+        },
+        "total": {
+            "congressional_record": {
+                "pages_of_proceedings": 27618,
+                "appendix": 6693
+            },
+            "public_bills_enacted_into_law": 349,
+            "private_bills_enacted_into_law": 214,
+            "measures_passed_total": {
+                "simple_resolutions": 357
+            },
+            "measures_reported_total": {
+                "simple_resolutions": 333
+            },
+            "measures_introduced_total": {
+                "total": 16882,
+                "bills": 16887,
+                "joint_resolutions": 910,
+                "concurrent_resolutions": 595,
+                "simple_resolutions": 790
+            },
+            "bills_vetoed": 7
+        }
+    },
+    "disposition_of_executive_nominations": {
+        "start_date": "1965-01-04T05:00:00.000Z",
+        "end_date": "1965-10-23T05:00:00.000Z",
+        "postmaster_nominees": {
+            "total": 1456,
+            "disposition": {
+                "confirmed": 1288,
+                "unconfirmed": 157,
+                "withdrawn": 11
+            }
+        },
+        "army_nominees": {
+            "total": 12256,
+            "disposition": {
+                "confirmed": 12146,
+                "unconfirmed": 110
+            }
+        },
+        "air_force_nominees": {
+            "total": 14264,
+            "disposition": {
+                "confirmed": 14264
+            }
+        },
+        "navy_nominees": {
+            "total": 16964,
+            "disposition": {
+                "confirmed": 16960,
+                "unconfirmed": 4
+            }
+        },
+        "marine_corps_nominees": {
+            "total": 5727,
+            "disposition": {
+                "confirmed": 5727
+            }
+        },
+        "civilian_nominees": {
+            "total": 5098,
+            "disposition": {
+                "confirmed": 4191,
+                "unconfirmed": 905,
+                "withdrawn": 2
+            }
+        },
+        "summary": {
+            "total_nominees_received_this_session": 55765,
+            "total_confirmed": 54576,
+            "total_unconfirmed": 1176,
+            "total_withdrawn": 13
+        }
+    },
+    "footnote": {
+      "resume.legislative_activity.senate.measures_reported_total.total": "These figures on measures reported include all placed on calendar or acted on by Senate even if there was no accompanying report. In the Senate 939 reports were filed during the first session and 978 in the second session; while the House filed 1,210 in the first session and 1,139 in the second session.",
+      "resume.legislative_activity.house.measures_reported_total.total": "These figures on measures reported include all placed on calendar or acted on by Senate even if there was no accompanying report. In the Senate 939 reports were filed during the first session and 978 in the second session; while the House filed 1,210 in the first session and 1,139 in the second session."
+    }
+}

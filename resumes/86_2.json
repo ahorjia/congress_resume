@@ -1,0 +1,184 @@
+{
+    "url": "https://www.senate.gov/reference/resources/pdf/86res.pdf",
+    "created_date": "2023-03-19T08:00:00.000Z",
+    "congress": 86,
+    "session": 1,
+    "report_date": "1960-09-01T05:00:00.000Z",
+    "legislative_activity": {
+        "start_date": "1960-01-06T05:00:00.000Z",
+        "end_date": "1960-09-01T05:00:00.000Z",
+        "senate": {
+            "days_in_session": 140,
+            "time_in_session": "PT1188H49M",
+            "congressional_record": {
+                "pages_of_proceedings": 11545
+            },
+            "public_bills_enacted_into_law": 140,
+            "private_bills_enacted_into_law": 100,
+            "bills_in_conference": 2,
+            "bills_through_conference": 2,
+            "measures_passed_total": {
+                "total": 996,
+                "senate_bills": 334,
+                "house_bills": 437,
+                "senate_joint_resolutions": 20,
+                "house_joint_resolutions": 27,
+                "senate_concurrent_resolutions": 23,
+                "house_concurrent_resolutions": 15,
+                "simple_resolutions": 140
+            },
+            "measures_reported_total": {
+                "total": 1092,
+                "senate_bills": 370,
+                "house_bills": 443,
+                "senate_joint_resolutions": 21,
+                "house_joint_resolutions": 28,
+                "senate_concurrent_resolutions": 25,
+                "house_concurrent_resolutions": 15,
+                "simple_resolutions": 190
+            },
+            "special_reports": 37,
+            "conference_reports": 54,
+            "reported_measures_not_acted_on": 46,
+            "measures_introduced_total": {
+                "total": 1497,
+                "bills": 1188,
+                "joint_resolutions": 80,
+                "concurrent_resolutions": 39,
+                "simple_resolutions": 190
+            },
+            "quorum_calls": 133,
+            "yea_and_nay_votes": 207,
+            "bills_vetoed": 3
+        },
+        "house": {
+            "days_in_session": 124,
+            "time_in_session": "PT512H00M",
+            "congressional_record": {
+                "pages_of_proceedings": 6233
+            },
+            "public_bills_enacted_into_law": 277,
+            "private_bills_enacted_into_law": 156,
+            "bills_in_conference": 6,
+            "bills_through_conference": 50,
+            "measures_passed_total": {
+                "total": 975,
+                "senate_bills": 233,
+                "house_bills": 497,
+                "senate_joint_resolutions": 15,
+                "house_joint_resolutions": 29,
+                "senate_concurrent_resolutions": 20,
+                "house_concurrent_resolutions": 20,
+                "simple_resolutions": 161
+            },
+            "measures_reported_total": {
+                "total": 904,
+                "senate_bills": 194,
+                "house_bills": 558,
+                "senate_joint_resolutions": 8,
+                "house_joint_resolutions": 28,
+                "senate_concurrent_resolutions": 6,
+                "house_concurrent_resolutions": 12,
+                "simple_resolutions": 98
+            },
+            "special_reports": 87,
+            "conference_reports": 54,
+            "reported_measures_not_acted_on": 89,
+            "measures_introduced_total": {
+                "total": 4830,
+                "bills": 4005,
+                "joint_resolutions": 270,
+                "concurrent_resolutions": 305,
+                "simple_resolutions": 250
+            },
+            "quorum_calls": 113,
+            "yea_and_nay_votes": 93,
+            "bills_vetoed": 21,
+            "vetoes_overridden": 1
+        },
+        "total": {
+            "congressional_record": {
+                "pages_of_proceedings": 17778,
+                "appendix": 7360
+            },
+            "public_bills_enacted_into_law": 417,
+            "private_bills_enacted_into_law": 256,
+            "bills_in_conference": 8,
+            "measures_passed_total": {
+                "simple_resolutions": 301
+            },
+            "measures_reported_total": {
+                "simple_resolutions": 288
+            },
+            "measures_introduced_total": {
+                "total": 6327,
+                "bills": 5193,
+                "joint_resolutions": 350,
+                "concurrent_resolutions": 344,
+                "simple_resolutions": 440
+            },
+            "quorum_calls": 244,
+            "yea_and_nay_votes": 302
+        }
+    },
+    "disposition_of_executive_nominations": {
+        "start_date": "1960-01-06T05:00:00.000Z",
+        "end_date": "1960-09-01T05:00:00.000Z",
+        "postmaster_nominees": {
+            "total": 1696,
+            "disposition": {
+                "confirmed": 719,
+                "withdrawn": 19,
+                "unconfirmed": 958
+            }
+        },
+        "army_nominees": {
+            "total": 10021,
+            "disposition": {
+                "confirmed": 10021
+            }
+        },
+        "air_force_nominees": {
+            "total": 8270,
+            "disposition": {
+                "confirmed": 8269,
+                "unconfirmed": 1
+            }
+        },
+        "navy_nominees": {
+            "total": 18731,
+            "disposition": {
+                "confirmed": 18731
+            }
+        },
+        "marine_corps_nominees": {
+            "total": 3226,
+            "disposition": {
+                "confirmed": 3225,
+                "withdrawn": 1
+            }
+        },
+        "civilian_nominees": {
+            "total": 2598,
+            "disposition": {
+                "confirmed": 2563,
+                "withdrawn": 3,
+                "unconfirmed": 32
+            }
+        },
+        "summary": {
+            "total_nominees_received_this_session": 44542,
+            "total_withdrawn": 22,
+            "total_unconfirmed": 992,
+            "total_confirmed": 43528
+        }
+    },
+    "footnote": {
+        "resume.legislative_activity.senate.measures_reported_total.total": "These figures on measures reported include all placed on calendar or acted on by Senate even if there was no accompanying report. In the Senate 1,016 reports were filed during the first session and 932 in the second session; while the House filed 1,192 in the first session and 1,045 in the second session.",
+        "resume.legislative_activity.house.measures_reported_total.total": "These figures on measures reported include all placed on calendar or acted on by Senate even if there was no accompanying report. In the Senate 1,016 reports were filed during the first session and 932 in the second session; while the House filed 1,192 in the first session and 1,045 in the second session.",
+        "resume.legislative_activity.senate.reported_measures_not_acted_on": "These figures do not agree with the total difference between bills reported and bills passed, because resolutions and bills placed on the House Calendar without having been formally reported were not included in figures of measures reported to the House; the difference in the case of Senate figures is due to uncounted bills 'laid on the table' or 'indefinitely postponed.' These data include bills on calendar and in conference at the end of the first session.",
+        "resume.legislative_activity.house.reported_measures_not_acted_on": "These figures do not agree with the total difference between bills reported and bills passed, because resolutions and bills placed on the House Calendar without having been formally reported were not included in figures of measures reported to the House; the difference in the case of Senate figures is due to uncounted bills 'laid on the table' or 'indefinitely postponed.' These data include bills on calendar and in conference at the end of the first session.",
+        "resume.legislative_activity.senate.special_reports": "Subsequent to sine die adjournment 15 House and 2 Senate special reports were filed and are included in above figures.",
+        "resume.legislative_activity.house.special_reports": "Subsequent to sine die adjournment 15 House and 2 Senate special reports were filed and are included in above figures."
+    }
+}

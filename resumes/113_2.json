@@ -1,0 +1,165 @@
+{
+    "url": "https://www.senate.gov/reference/resources/pdf/Resumes/113_2.pdf",
+    "created_date": "2023-02-02T08:00:00.000Z",
+    "congress": 113,
+    "session": 2,
+    "report_date": "2015-03-04T05:00:00.000Z",
+    "legislative_activity": {
+        "start_date": "2014-01-03T05:00:00.000Z",
+        "end_date": "2015-01-02T05:00:00.000Z",
+        "senate": {
+            "days_in_session": 136,
+            "time_in_session": "PT908H15M",
+            "congressional_record": {
+                "pages_of_proceedings": 56941
+            },
+            "public_bills_enacted_into_law": 61,
+            "bills_in_conference": 1,
+            "measures_passed_total": {
+                "total": 501,
+                "senate_bills": 95,
+                "house_bills": 153,
+                "senate_joint_resolutions": 6,
+                "house_joint_resolutions": 8,
+                "senate_concurrent_resolutions": 6,
+                "house_concurrent_resolutions": 23,
+                "simple_resolutions": 210
+            },
+            "measures_reported_total": {
+                "total": 275,
+                "senate_bills": 190,
+                "house_bills": 51,
+                "senate_joint_resolutions": 3,
+                "senate_concurrent_resolutions": 1,
+                "house_concurrent_resolutions": 1,
+                "simple_resolutions": 29
+            },
+            "special_reports": 12,
+            "conference_reports": 3,
+            "measures_pending_on_calendar": 414,
+            "measures_introduced_total": {
+                "total": 1432,
+                "bills": 1126,
+                "joint_resolutions": 18,
+                "concurrent_resolutions": 14,
+                "simple_resolutions": 274
+            },
+            "quorum_calls": 1,
+            "yea_and_nay_votes": 366
+        },
+        "house": {
+            "days_in_session": 135,
+            "time_in_session": "PT704H31M",
+            "congressional_record": {
+                "pages_of_proceedings": 10336,
+                "extensions_of_remarks": 1857
+            },
+            "public_bills_enacted_into_law": 163,
+            "bills_in_conference": 1,
+            "measures_passed_total": {
+                "total": 565,
+                "senate_bills": 57,
+                "house_bills": 375,
+                "senate_joint_resolutions": 4,
+                "house_joint_resolutions": 7,
+                "senate_concurrent_resolutions": 4,
+                "house_concurrent_resolutions": 25,
+                "simple_resolutions": 93
+            },
+            "measures_reported_total": {
+                "total": 377,
+                "senate_bills": 7,
+                "house_bills": 306,
+                "house_joint_resolutions": 2,
+                "house_concurrent_resolutions": 4,
+                "simple_resolutions": 58
+            },
+            "special_reports": 34,
+            "conference_reports": 3,
+            "measures_pending_on_calendar": 127,
+            "measures_introduced_total": {
+                "total": 2505,
+                "bills": 2089,
+                "joint_resolutions": 27,
+                "concurrent_resolutions": 53,
+                "simple_resolutions": 336
+            },
+            "quorum_calls": 1,
+            "yea_and_nay_votes": 248,
+            "recorded_votes": 315
+        },
+        "total": {
+            "public_bill_enacted_into_law": 224,
+            "measures_passed_total": {
+                "total": 1066
+            },
+            "measures_reported_total": {
+                "total": 652
+            },
+            "measures_introduced_total": {
+                "total": 3937
+            }
+        }
+    },
+    "disposition_of_executive_nominations": {
+        "start_date": "2014-01-03T05:00:00.000Z",
+        "end_date": "2015-01-02T05:00:00.000Z",
+        "civilian_nominees": {
+            "total": 654,
+            "carried_over_from_first_session": 2,
+            "disposition": {
+                "confirmed": 474,
+                "withdrawn": 14,
+                "returned_to_white_house": 166
+            }
+        },
+        "other_civilian_nominees": {
+            "total": 3585,
+            "disposition": {
+                "confirmed": 2602,
+                "returned_to_white_house": 983
+            }
+        },
+        "air_force_nominees": {
+            "total": 4424,
+            "disposition": {
+                "confirmed": 4200,
+                "withdrawn": 1,
+                "returned_to_white_house": 223
+            }
+        },
+        "army_nominees": {
+            "total": 6379,
+            "disposition": {
+                "confirmed": 6325,
+                "withdrawn": 1,
+                "returned_to_white_house": 53
+            }
+        },
+        "navy_nominees": {
+            "total": 3877,
+            "disposition": {
+                "confirmed": 3875,
+                "returned_to_white_house": 2
+            }
+        },
+        "marine_corps_nominees": {
+            "total": 879,
+            "disposition": {
+                "confirmed": 878,
+                "returned_to_white_house": 1
+            }
+        },
+        "summary": {
+            "total_nominees_carried_over_from_first_session": 2,
+            "total_nominees_received_this_session": 19796,
+            "total_confirmed": 18354,
+            "total_withdrawn": 16,
+            "total_returned_to_white_house": 1428
+        }
+    },
+    "footnote": {
+        "resume.legislative_activity.senate.measures_reported_total.total": "These figures include all measures reported. even if there was no accompanying report. A total of 132 reports have been filed in the Senate, a total of 353 reports have been filed in the House",
+        "resume.legislative_activity.house.measures_reported_total.total": "These figures include all measures reported. even if there was no accompanying report. A total of 132 reports have been filed in the Senate, a total of 353 reports have been filed in the House"
+    }
+}

@@ -1,0 +1,177 @@
+{
+  "url": "https://www.senate.gov/reference/resources/pdf/99res.pdf",
+  "created_date": "2023-03-19T08:00:00.000Z",
+  "congress": 99,
+  "session": 2,
+  "report_date": "1987-01-06T00:00:00.000Z",
+  "legislative_activity": {
+    "start_date": "1986-01-21T00:00:00.000Z",
+    "end_date": "1986-10-18T00:00:00.000Z",
+    "senate": {
+      "days_in_session": 143,
+      "time_in_session": "PT1278H15M",
+      "congressional_record": {
+        "pages_of_proceedings": 17426
+      },
+      "public_bills_enacted_into_law": 187,
+      "private_bills_enacted_into_law": 7,
+      "bills_in_conference": 1,
+      "measures_passed_total": {
+        "total": 747,
+        "senate_bills": 164,
+        "house_bills": 209,
+        "senate_joint_resolutions": 120,
+        "house_joint_resolutions": 74,
+        "senate_concurrent_resolutions": 28,
+        "house_concurrent_resolutions": 34,
+        "simple_resolutions": 118
+      },
+      "measures_reported_total": {
+        "total": 546,
+        "senate_bills": 243,
+        "house_bills": 93,
+        "senate_joint_resolutions": 111,
+        "house_joint_resolutions": 23,
+        "senate_concurrent_resolutions": 6,
+        "house_concurrent_resolutions": 7,
+        "simple_resolutions": 63
+      },
+      "special_reports": 15,
+      "conference_reports": 37,
+      "measures_pending_on_calendar": 180,
+      "measures_introduced_total": {
+        "total": 1429,
+        "bills": 954,
+        "joint_resolutions": 177,
+        "concurrent_resolutions": 73,
+        "simple_resolutions": 225
+      },
+      "quorum_calls": 16,
+      "yea_and_nay_votes": 359,
+      "bills_vetoed": 4,
+      "vetoes_overridden": 1
+    },
+    "house": {
+      "days_in_session": 129,
+      "time_in_session": "PT829H11M",
+      "congressional_record": {
+        "pages_of_proceedings": 11656
+      },
+      "public_bills_enacted_into_law": 237,
+      "private_bills_enacted_into_law": 17,
+      "bills_in_conference": 16,
+      "measures_passed_total": {
+        "total": 772,
+        "senate_bills": 103,
+        "house_bills": 289,
+        "senate_joint_resolutions": 101,
+        "house_joint_resolutions": 79,
+        "senate_concurrent_resolutions": 16,
+        "house_concurrent_resolutions": 49,
+        "simple_resolutions": 135
+      },
+      "measures_reported_total": {
+        "total": 452,
+        "senate_bills": 21,
+        "house_bills": 315,
+        "senate_joint_resolutions": 2,
+        "house_joint_resolutions": 13,
+        "house_concurrent_resolutions": 5,
+        "simple_resolutions": 96
+      },
+      "special_reports": 97,
+      "conference_reports": 37,
+      "measures_pending_on_calendar": 97,
+      "measures_introduced_total": {
+        "total": 2396,
+        "bills": 1732,
+        "joint_resolutions": 260,
+        "concurrent_resolutions": 152,
+        "simple_resolutions": 252
+      },
+      "quorum_calls": 37,
+      "yea_and_nay_votes": 224,
+      "recorded_votes": 227,
+      "bills_vetoed": 10,
+      "vetoes_overridden": 1
+    },
+    "total": {
+      "congressional_record": {
+        "pages_of_proceedings": 29082,
+        "extensions_of_remarks": 3830
+      },
+      "public_bills_enacted_into_law": 424,
+      "private_bills_enacted_into_law": 24,
+      "measures_passed_total": {
+        "total": 1519
+      },
+      "measures_reported_total": {
+        "total": 998
+      },
+      "measures_introduced_total": {
+        "total": 3825
+      },
+      "bills_vetoed": 14,
+      "vetoes_overridden": 1
+    }
+  },
+  "disposition_of_executive_nominations": {
+    "start_date": "1986-01-21T00:00:00.000Z",
+    "end_date": "1986-10-18T00:00:00.000Z",
+    "civilian_nominees": {
+      "total": 488,
+      "carried_over_from_first_session": 68,
+      "disposition": {
+        "confirmed": 411,
+        "unconfirmed": 69,
+        "withdrawn": 8
+      }
+    },
+    "other_civilian_nominees": {
+      "total": 1627,
+      "carried_over_from_first_session": 1,
+      "disposition": {
+        "confirmed": 1626,
+        "unconfirmed": 1
+      }
+    },
+    "air_force_nominees": {
+      "total": 14600,
+      "carried_over_from_first_session": 2354,
+      "disposition": {
+        "confirmed": 14600
+      }
+    },
+    "army_nominees": {
+      "total": 10810,
+      "carried_over_from_first_session": 892,
+      "disposition": {
+        "confirmed": 10810
+      }
+    },
+    "navy_nominees": {
+      "total": 9952,
+      "disposition": {
+        "confirmed": 9952
+      }
+    },
+    "marine_corps_nominees": {
+      "total": 2494,
+      "carried_over_from_first_session": 362,
+      "disposition": {
+        "confirmed": 2494
+      }
+    },
+    "summary": {
+      "total_nominees_carried_over_from_first_session": 3677,
+      "total_nominees_received_this_session": 39971,
+      "total_confirmed": 39893,
+      "total_unconfirmed": 70,
+      "total_withdrawn": 8
+    }
+  },
+  "footnote": {
+    "resume.legislative_activity.senate.measures_reported_total.total": "These figures on measures reported include all placed on calendar or acted on by Senate even if there was no accompanying report. In the Senate 227 reports were filed during the first session and 314 in the second session; while the House filed 461 in the first session and 589 in the second session.",
+    "resume.legislative_activity.house.measures_reported_total.total": "These figures on measures reported include all placed on calendar or acted on by Senate even if there was no accompanying report. In the Senate 227 reports were filed during the first session and 314 in the second session; while the House filed 461 in the first session and 589 in the second session."
+  }
+}

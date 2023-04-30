@@ -1,0 +1,173 @@
+{
+    "url": "https://www.senate.gov/reference/resources/pdf/Resumes/106_2.pdf",
+    "created_date": "2023-02-02T08:00:00.000Z",
+    "congress": 106,
+    "session": 2,
+    "report_date": "2001-01-30T05:00:00.000Z",
+    "legislative_activity": {
+        "start_date": "2000-01-24T05:00:00.000Z",
+        "end_date": "2000-12-15T05:00:00.000Z",
+        "senate": {
+            "days_in_session": 141,
+            "time_in_session": "PT1017H51M",
+            "congressional_record": {
+                "pages_of_proceedings": 11943
+            },
+            "public_bills_enacted_into_law": 131,
+            "private_bills_enacted_into_law": 13,
+            "bills_in_conference": 26,
+            "measures_passed_total": {
+                "total": 696,
+                "senate_bills": 181,
+                "house_bills": 270,
+                "senate_joint_resolutions": 10,
+                "house_joint_resolutions": 24,
+                "senate_concurrent_resolutions": 57,
+                "house_concurrent_resolutions": 39,
+                "simple_resolutions": 115
+            },
+            "measures_reported_total": {
+                "total": 408,
+                "senate_bills": 256,
+                "house_bills": 111,
+                "senate_joint_resolutions": 2,
+                "house_joint_resolutions": 1,
+                "senate_concurrent_resolutions": 14,
+                "house_concurrent_resolutions": 4,
+                "simple_resolutions": 20
+            },
+            "special_reports": 16,
+            "conference_reports": 4,
+            "measures_pending_on_calendar": 302,
+            "measures_introduced_total": {
+                "total": 1546,
+                "bills": 1290,
+                "joint_resolutions": 19,
+                "concurrent_resolutions": 85,
+                "simple_resolutions": 152
+            },
+            "quorum_calls": 6,
+            "yea_and_nay_votes": 298,
+            "bills_vetoed": 1
+        },
+        "house": {
+            "days_in_session": 135,
+            "time_in_session": "PT1054H14M",
+            "congressional_record": {
+                "pages_of_proceedings": 12439,
+                "extensions_of_remarks": 2203
+            },
+            "public_bills_enacted_into_law": 279,
+            "private_bills_enacted_into_law": 8,
+            "bills_in_conference": 10,
+            "measures_passed_total": {
+                "total": 877,
+                "senate_bills": 143,
+                "house_bills": 416,
+                "senate_joint_resolutions": 4,
+                "house_joint_resolutions": 26,
+                "senate_concurrent_resolutions": 27,
+                "house_concurrent_resolutions": 80,
+                "simple_resolutions": 181
+            },
+            "measures_reported_total": {
+                "total": 501,
+                "senate_bills": 40,
+                "house_bills": 312,
+                "house_joint_resolutions": 4,
+                "house_concurrent_resolutions": 9,
+                "simple_resolutions": 136
+            },
+            "special_reports": 40,
+            "conference_reports": 27,
+            "measures_pending_on_calendar": 130,
+            "measures_introduced_total": {
+                "total": 2701,
+                "bills": 2164,
+                "joint_resolutions": 49,
+                "concurrent_resolutions": 208,
+                "simple_resolutions": 280
+            },
+            "quorum_calls": 3,
+            "yea_and_nay_votes": 359,
+            "recorded_votes": 241,
+            "bills_vetoed": 6,
+            "vetoes_overridden": 1
+        },
+        "total": {
+            "public_bills_enacted_into_law": 410,
+            "private_bills_enacted_into_law": 21,
+            "measures_passed_total": {
+                "total": 1573
+            },
+            "measures_reported_total": {
+                "total": 909
+            },
+            "measures_introduced_total": {
+                "total": 4247
+            }
+        }
+    },
+    "disposition_of_executive_nominations": {
+        "start_date": "2000-01-24T05:00:00.000Z",
+        "end_date": "2000-12-31T05:00:00.000Z",
+        "civilian_nominees": {
+            "total": 479,
+            "carried_over_from_first_session": 142,
+            "disposition": {
+                "confirmed": 250,
+                "unconfirmed": 18,
+                "withdrawn": 13,
+                "returned_to_white_house": 198
+            }
+        },
+        "other_civilian_nominees": {
+            "total": 2022,
+            "carried_over_from_first_session": 778,
+            "disposition": {
+                "confirmed": 2021,
+                "unconfirmed": 1
+            }
+        },
+        "air_force_nominees": {
+            "total": 5784,
+            "carried_over_from_first_session": 15,
+            "disposition": {
+                "confirmed": 5781,
+                "returned_to_white_house": 3
+            }
+        },
+        "army_nominees": {
+            "total": 6605,
+            "carried_over_from_first_session": 204,
+            "disposition": {
+                "confirmed": 6045,
+                "unconfirmed": 2,
+                "returned_to_white_house": 558
+            }
+        },
+        "navy_nominees": {
+            "total": 5595,
+            "carried_over_from_first_session": 10,
+            "disposition": {
+                "confirmed": 5588,
+                "returned_to_white_house": 7
+            }
+        },
+        "marine_corps_nominees": {
+            "total": 2827,
+            "carried_over_from_first_session": 1,
+            "disposition": {
+                "confirmed": 2827
+            }
+        },
+        "summary": {
+            "total_nominees_carried_over_from_first_session": 1150,
+            "total_nominees_received_this_session": 22162,
+            "total_confirmed": 22512,
+            "total_unconfirmed": 21,
+            "total_withdrawn": 13,
+            "total_returned_to_white_house": 766
+        }
+    }
+}

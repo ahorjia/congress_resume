@@ -1,0 +1,178 @@
+{
+  "url": "https://www.senate.gov/reference/resources/pdf/93res.pdf",
+  "created_date": "2023-03-19T08:00:00.000Z",
+  "congress": 93,
+  "session": 1,
+  "report_date": "1974-12-20T05:00:00.000Z",
+  "legislative_activity": {
+    "start_date": "1974-01-21T05:00:00.000Z",
+    "end_date": "1974-12-20T05:00:00.000Z",
+    "senate": {
+      "days_in_session": 168,
+      "time_in_session": "PT1068H09M",
+      "congressional_record": {
+        "pages_of_proceedings": 22643
+      },
+      "public_bills_enacted_into_law": 168,
+      "private_bills_enacted_into_law": 25,
+      "bills_in_conference": 6,
+      "bills_through_conference": 39,
+      "measures_passed_total": {
+        "total": 1645,
+        "senate_bills": 246,
+        "house_bills": 292,
+        "senate_joint_resolutions": 36,
+        "house_joint_resolutions": 17,
+        "senate_concurrent_resolutions": 30,
+        "house_concurrent_resolutions": 42,
+        "simple_resolutions": 175
+      },
+      "measures_reported_total": {
+        "total": 748,
+        "senate_bills": 307,
+        "house_bills": 232,
+        "senate_joint_resolutions": 26,
+        "house_joint_resolutions": 8,
+        "senate_concurrent_resolutions": 18,
+        "house_concurrent_resolutions": 16,
+        "simple_resolutions": 141
+      },
+      "special_reports": 27,
+      "conference_reports": 41,
+      "measures_pending_on_calendar": 9,
+      "measures_introduced_total": {
+        "total": 1793,
+        "bills": 1400,
+        "joint_resolutions": 80,
+        "concurrent_resolutions": 65,
+        "simple_resolutions": 248
+      },
+      "quorum_calls": 34,
+      "yea_and_nay_votes": 544,
+      "bills_vetoed": 6
+    },
+    "house": {
+      "days_in_session": 159,
+      "time_in_session": "PT813H04M",
+      "congressional_record": {
+        "pages_of_proceedings": 12777
+      },
+      "public_bills_enacted_into_law": 236,
+      "private_bills_enacted_into_law": 48,
+      "bills_in_conference": 6,
+      "bills_through_conference": 77,
+      "measures_passed_total": {
+        "total": 807,
+        "senate_bills": 176,
+        "house_bills": 288,
+        "senate_joint_resolutions": 24,
+        "house_joint_resolutions": 17,
+        "senate_concurrent_resolutions": 27,
+        "house_concurrent_resolutions": 46,
+        "simple_resolutions": 229
+      },
+      "measures_reported_total": {
+        "total": 733,
+        "senate_bills": 91,
+        "house_bills": 394,
+        "senate_joint_resolutions": 9,
+        "house_joint_resolutions": 14,
+        "senate_concurrent_resolutions": 14,
+        "house_concurrent_resolutions": 19,
+        "simple_resolutions": 192
+      },
+      "special_reports": 67,
+      "conference_reports": 125,
+      "measures_pending_on_calendar": 86,
+      "measures_introduced_total": {
+        "total": 6901,
+        "bills": 5540,
+        "joint_resolutions": 312,
+        "concurrent_resolutions": 286,
+        "simple_resolutions": 763
+      },
+      "quorum_calls": 190,
+      "yea_and_nay_votes": 325,
+      "recorded_votes": 212,
+      "bills_vetoed": 23,
+      "vetoes_overridden": 4
+    },
+    "total": {
+      "congressional_record": {
+        "pages_of_proceedings": 35420,
+        "extensions_of_remarks": 7517
+      },
+      "public_bills_enacted_into_law": 404,
+      "private_bills_enacted_into_law": 73,
+      "measures_passed_total": {
+        "total": 1645
+      },
+      "measures_reported_total": {
+        "total": 1481
+      },
+      "measures_introduced_total": {
+        "total": 8694
+      },
+      "bills_vetoed": 29,
+      "vetoes_overridden": 4
+    }
+  },
+  "disposition_of_executive_nominations": {
+    "start_date": "1974-01-21T05:00:00.000Z",
+    "end_date": "1974-12-20T05:00:00.000Z",
+    "army_nominees": {
+      "total": 17706,
+      "disposition": {
+        "confirmed": 17703,
+        "withdrawn": 1,
+        "returned_to_white_house": 2
+      }
+    },
+    "navy_nominees": {
+      "total": 17887,
+      "disposition": {
+        "confirmed": 17885,
+        "unconfirmed": 1,
+        "returned_to_white_house": 1
+      }
+    },
+    "air_force_nominees": {
+      "total": 19556,
+      "disposition": {
+        "confirmed": 19490,
+        "unconfirmed": 66
+      }
+    },
+    "marine_corps_nominees": {
+      "total": 7614,
+      "disposition": {
+        "confirmed": 5887,
+        "unconfirmed": 1727
+      }
+    },
+    "civilian_nominees": {
+      "total": 3541,
+      "disposition": {
+        "confirmed": 3472,
+        "unconfirmed": 22,
+        "withdrawn": 4,
+        "returned_to_white_house": 43
+      }
+    },
+    "summary": {
+      "total_nominees_received_this_session": 66304,
+      "total_confirmed": 64437,
+      "total_unconfirmed": 1816,
+      "total_withdrawn": 5,
+      "total_returned_to_white_house": 46
+    }
+  },
+  "footnote": {
+    "resume.legislative_activity.senate.measures_reported_total.total": "These figures include all measures reported. even if there was no accompanying report. A total of 132 reports have been filed in the Senate, a total of 353 reports have been filed in the House",
+    "resume.legislative_activity.house.measures_reported_total.total": "These figures include all measures reported. even if there was no accompanying report. A total of 132 reports have been filed in the Senate, a total of 353 reports have been filed in the House",
+    "resume.legislative_activity.disposition_of_executive_nominations.army_nominees.disposition.returned_to_white_house": "Returned to the President during the October-November recess in accordance with Senate Rule XXXVIII.",
+    "resume.legislative_activity.disposition_of_executive_nominations.navy_nominees.disposition.returned_to_white_house": "Returned to the President during the October-November recess in accordance with Senate Rule XXXVIII.",
+    "resume.legislative_activity.disposition_of_executive_nominations.civilian_nominees.disposition.returned_to_white_house": "Returned to the President during the October-November recess in accordance with Senate Rule XXXVIII.",
+    "resume.legislative_activity.disposition_of_executive_nominations.summary.total_returned_to_white_house": "Returned to the President during the October-November recess in accordance with Senate Rule XXXVIII."
+  }
+}

@@ -1,0 +1,172 @@
+{
+    "url": "https://www.senate.gov/reference/resources/pdf/91res.pdf",
+    "created_date": "2023-03-19T08:00:00.000Z",
+    "congress": 91,
+    "session": 1,
+    "report_date": "1971-01-02T05:00:00.000Z",
+    "legislative_activity": {
+        "start_date": "1969-01-03T05:00:00.000Z",
+        "end_date": "1969-12-23T05:00:00.000Z",
+        "senate": {
+            "days_in_session": 176,
+            "time_in_session": "PT926H56M",
+            "congressional_record": {
+                "pages_of_proceedings": 17768
+            },
+            "public_bills_enacted_into_law": 74,
+            "private_bills_enacted_into_law": 29,
+            "bills_in_conference": 2,
+            "bills_through_conference": 12,
+            "measures_passed_total": {
+                "total": 684,
+                "senate_bills": 277,
+                "house_bills": 156,
+                "senate_joint_resolutions": 33,
+                "house_joint_resolutions": 17,
+                "senate_concurrent_resolutions": 14,
+                "house_concurrent_resolutions": 28,
+                "simple_resolutions": 159
+            },
+            "measures_reported_total": {
+                "total": 745,
+                "senate_bills": 294,
+                "house_bills": 160,
+                "senate_joint_resolutions": 33,
+                "house_joint_resolutions": 13,
+                "senate_concurrent_resolutions": 13,
+                "house_concurrent_resolutions": 24,
+                "simple_resolutions": 208
+            },
+            "special_reports": 20,
+            "reported_measures_not_acted_on": 19,
+            "measures_introduced_total": {
+                "total": 3826,
+                "bills": 3304,
+                "joint_resolutions": 168,
+                "concurrent_resolutions": 51,
+                "simple_resolutions": 303
+            },
+            "quorum_calls": 29,
+            "yea_and_nay_votes": 245
+        },
+        "house": {
+            "days_in_session": 186,
+            "time_in_session": "PT747H21M",
+            "congressional_record": {
+                "pages_of_proceedings": 13159
+            },
+            "public_bills_enacted_into_law": 116,
+            "private_bills_enacted_into_law": 46,
+            "bills_in_conference": 7,
+            "bills_through_conference": 28,
+            "measures_passed_total": {
+                "total": 720,
+                "senate_bills": 75,
+                "house_bills": 364,
+                "senate_joint_resolutions": 22,
+                "house_joint_resolutions": 23,
+                "senate_concurrent_resolutions": 12,
+                "house_concurrent_resolutions": 32,
+                "simple_resolutions": 192
+            },
+            "measures_reported_total": {
+                "total": 706,
+                "senate_bills": 56,
+                "house_bills": 443,
+                "senate_joint_resolutions": 5,
+                "house_joint_resolutions": 17,
+                "senate_concurrent_resolutions": 7,
+                "house_concurrent_resolutions": 18,
+                "simple_resolutions": 160
+            },
+            "special_reports": 38,
+            "conference_reports": 42,
+            "reported_measures_not_acted_on": 48,
+            "measures_introduced_total": {
+                "total": 17728,
+                "bills": 15434,
+                "joint_resolutions": 1044,
+                "concurrent_resolutions": 476,
+                "simple_resolutions": 303
+            },
+            "quorum_calls": 1746,
+            "yea_and_nay_votes": 177
+        },
+        "total": {
+            "congressional_record": {
+                "pages_of_proceedings": 30927,
+                "extensions_of_remarks": 11295
+            },
+            "public_bills_enacted_into_law": 190,
+            "private_bills_enacted_into_law": 75,
+            "bills_in_conference": 9,
+            "bills_through_conference": 40,
+            "measures_passed_total": {
+                "total": 1404
+            },
+            "measures_reported_total": {
+                "total": 1451
+            },
+            "measures_introduced_total": {
+                "total": 21554
+            }
+        }
+    },
+    "disposition_of_executive_nominations": {
+        "start_date": "1969-01-03T05:00:00.000Z",
+        "end_date": "1969-12-23T05:00:00.000Z",
+        "army_nominees": {
+            "total": 13703,
+            "disposition": {
+                "confirmed": 13676,
+                "unconfirmed": 26,
+                "withdrawn": 1
+            }
+        },
+        "air_force_nominees": {
+            "total": 18962,
+            "disposition": {
+                "confirmed": 18961,
+                "unconfirmed": 1
+            }
+        },
+        "navy_nominees": {
+            "total": 26531,
+            "disposition": {
+                "confirmed": 26531
+            }
+        },
+        "marine_corps_nominees": {
+            "total": 9330,
+            "disposition": {
+                "confirmed": 9330
+            }
+        },
+        "civilian_nominees": {
+            "total": 4005,
+            "disposition": {
+                "confirmed": 3961,
+                "unconfirmed": 19,
+                "withdrawn": 24,
+                "rejected": 1
+            }
+        },
+        "postmaster_nominees": {
+            "total": 628,
+            "disposition": {
+                "withdrawn": 176,
+                "confirmed": 452
+            }
+        },
+        "summary": {
+            "total_nominees_received_this_session": 73159,
+            "total_confirmed": 72635,
+            "total_unconfirmed": 46,
+            "total_withdrawn": 477,
+            "total_rejected": 1
+        }
+    },
+    "footnote": {
+        "resume.legislative_activity.senate.measures_reported_total.total": "These figures on measures reported include all placed on calendar or acted on by Senate even if there was no accompanying report. In the Senate 633 reports were filed during the first session and 915 in the second session; while the House filed 786 in the first session and 1,022 in the second session."
+    }
+}

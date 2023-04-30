@@ -1,0 +1,179 @@
+{
+  "url": "https://www.senate.gov/reference/resources/pdf/90res.pdf",
+  "created_date": "2023-03-19T08:00:00.000Z",
+  "congress": 90,
+  "session": 2,
+  "report_date": "1968-10-14T05:00:00.000Z",
+  "legislative_activity": {
+    "start_date": "1968-01-15T05:00:00.000Z",
+    "end_date": "1968-10-14T05:00:00.000Z",
+    "senate": {
+      "days_in_session": 158,
+      "time_in_session": "PT870H11M",
+      "congressional_record": {
+        "pages_of_proceedings": 12896
+      },
+      "public_bills_enacted_into_law": 165,
+      "private_bills_enacted_into_law": 76,
+      "bills_in_conference": 3,
+      "bills_through_conference": 22,
+      "measures_passed_total": {
+        "total": 766,
+        "senate_bills": 255,
+        "house_bills": 295,
+        "senate_joint_resolutions": 24,
+        "house_joint_resolutions": 19,
+        "senate_concurrent_resolutions": 13,
+        "house_concurrent_resolutions": 23,
+        "simple_resolutions": 137
+      },
+      "measures_reported_total": {
+        "total": 860,
+        "senate_bills": 281,
+        "house_bills": 314,
+        "senate_joint_resolutions": 27,
+        "house_joint_resolutions": 16,
+        "senate_concurrent_resolutions": 13,
+        "house_concurrent_resolutions": 22,
+        "simple_resolutions": 187
+      },
+      "special_reports": 27,
+      "reported_measures_not_acted_on": 32,
+      "measures_introduced_total": {
+        "total": 1699,
+        "bills": 1377,
+        "joint_resolutions": 70,
+        "concurrent_resolutions": 31,
+        "simple_resolutions": 221
+      },
+      "quorum_calls": 48,
+      "yea_and_nay_votes": 280
+    },
+    "house": {
+      "days_in_session": 139,
+      "time_in_session": "PT726H36M",
+      "congressional_record": {
+        "pages_of_proceedings": 10056
+      },
+      "public_bills_enacted_into_law": 226,
+      "private_bills_enacted_into_law": 82,
+      "bills_in_conference": 3,
+      "bills_through_conference": 52,
+      "measures_passed_total": {
+        "total": 767,
+        "senate_bills": 181,
+        "house_bills": 335,
+        "senate_joint_resolutions": 20,
+        "house_joint_resolutions": 27,
+        "senate_concurrent_resolutions": 5,
+        "house_concurrent_resolutions": 24,
+        "simple_resolutions": 175
+      },
+      "measures_reported_total": {
+        "total": 808,
+        "senate_bills": 152,
+        "house_bills": 449,
+        "senate_joint_resolutions": 10,
+        "house_joint_resolutions": 14,
+        "senate_concurrent_resolutions": 5,
+        "house_concurrent_resolutions": 15,
+        "simple_resolutions": 163
+      },
+      "special_reports": 48,
+      "conference_reports": 69,
+      "reported_measures_not_acted_on": 76,
+      "measures_introduced_total": {
+        "total": 7047,
+        "bills": 5994,
+        "joint_resolutions": 502,
+        "concurrent_resolutions": 238,
+        "simple_resolutions": 313
+      },
+      "quorum_calls": 195,
+      "yea_and_nay_votes": 233,
+      "bills_vetoed": 5
+    },
+    "total": {
+      "congressional_record": {
+        "pages_of_proceedings": 22952,
+        "extensions_of_remarks": 9826
+      },
+      "public_bills_enacted_into_law": 391,
+      "private_bills_enacted_into_law": 158,
+      "measures_passed_total": {
+        "simple_resolutions": 312
+      },
+      "measures_reported_total": {
+        "simple_resolutions": 350
+      },
+      "reported_measures_not_acted_on": 108,
+      "measures_introduced_total": {
+        "total": 8746,
+        "bills": 7371,
+        "joint_resolutions": 572,
+        "concurrent_resolutions": 269,
+        "simple_resolutions": 434
+      },
+      "bills_vetoed": 5
+    }
+  },
+  "disposition_of_executive_nominations": {
+    "start_date": "1968-01-15T05:00:00.000Z",
+    "end_date": "1968-10-14T05:00:00.000Z",
+    "army_nominees": {
+      "total": 10497,
+      "disposition": {
+        "confirmed": 10389,
+        "unconfirmed": 108
+      }
+    },
+    "air_force_nominees": {
+      "total": 19767,
+      "disposition": {
+        "confirmed": 19766,
+        "unconfirmed": 1
+      }
+    },
+    "navy_nominees": {
+      "total": 12168,
+      "disposition": {
+        "confirmed": 10763,
+        "unconfirmed": 1405
+      }
+    },
+    "marine_corps_nominees": {
+      "total": 3779,
+      "disposition": {
+        "confirmed": 3779
+      }
+    },
+    "civilian_nominees": {
+      "total": 3398,
+      "disposition": {
+        "confirmed": 3374,
+        "unconfirmed": 21,
+        "withdrawn": 3
+      }
+    },
+    "postmaster_nominees": {
+      "total": 1368,
+      "disposition": {
+        "confirmed": 1078,
+        "unconfirmed": 278,
+        "withdrawn": 12
+      }
+    },
+    "summary": {
+      "total_nominees_received_this_session": 50977,
+      "total_confirmed": 49149,
+      "total_unconfirmed": 1813,
+      "total_withdrawn": 15
+    }
+  },
+  "footnote": {
+    "resume.legislative_activity.senate.measures_reported_total.total": "These figures on measures reported include all placed on calendar or acted on by Senate even if there was no accompanying report. In the Senate 946 reports were filed during the first session and 724 in the second session; while the House filed 1,o5o in the first session and 925 in the second session.",
+    "resume.legislative_activity.house.measures_reported_total.total": "These figures on measures reported include all placed on calendar or acted on by Senate even if there was no accompanying report. In the Senate 946 reports were filed during the first session and 724 in the second session; while the House filed 1,o5o in the first session and 925 in the second session.",
+    "resume.legislative_activity.senate.quorum_calls": "These figures do not include three quorum calls which did not develop quorums, and one yea-and-nay vote which was ruled invalid for lack of a quorum.",
+    "resume.legislative_activity.senate.yea_and_nay_votes": "These figures do not include three quorum calls which did not develop quorums, and one yea-and-nay vote which was ruled invalid for lack of a quorum."
+  }
+}

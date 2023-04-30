@@ -1,0 +1,162 @@
+{
+    "url": "https://www.senate.gov/reference/resources/pdf/Resumes/112_1.pdf",
+    "created_date": "2023-02-02T08:00:00.000Z",
+    "congress": 112,
+    "session": 1,
+    "report_date": "2012-03-07T00:00:00.000Z",
+    "legislative_activity": {
+        "start_date": "2011-01-05T00:00:00.000Z",
+        "end_date": "2012-01-03T00:00:00.000Z",
+        "senate": {
+            "days_in_session": 170,
+            "time_in_session": "P1101H44M",
+            "congressional_record": {
+                "pages_of_proceedings": 8793
+            },
+            "public_bills_enacted_into_law": 24,
+            "bills_in_conference": 2,
+            "measures_passed_total": {
+                "total": 402,
+                "senate_bills": 61,
+                "house_bills": 64,
+                "senate_joint_resolutions": 4,
+                "house_joint_resolutions": 5,
+                "senate_concurrent_resolutions": 17,
+                "house_concurrent_resolutions": 17,
+                "simple_resolutions": 234
+            },
+            "measures_reported_total": {
+                "total": 185,
+                "senate_bills": 132,
+                "house_bills": 22,
+                "house_joint_resolutions": 1,
+                "senate_concurrent_resolutions": 2,
+                "simple_resolutions": 28
+            },
+            "special_reports": 17,
+            "conference_reports": 3,
+            "measures_pending_on_calendar": 183,
+            "measures_introduced_total": {
+                "total": 2447,
+                "bills": 2031,
+                "joint_resolutions": 33,
+                "concurrent_resolutions": 33,
+                "simple_resolutions": 351
+            },
+            "quorum_calls": 5,
+            "yea_and_nay_votes": 235
+        },
+        "house": {
+            "days_in_session": 175,
+            "time_in_session": "PT992H40M",
+            "congressional_record": {
+                "pages_of_proceedings": 10033,
+                "extensions_of_remarks": 2347
+            },
+            "public_bills_enacted_into_law": 66,
+            "bills_in_conference": 2,
+            "measures_passed_total": {
+                "total": 384,
+                "senate_bills": 21,
+                "house_bills": 190,
+                "senate_joint_resolutions": 4,
+                "house_joint_resolutions": 7,
+                "senate_concurrent_resolutions": 7,
+                "house_concurrent_resolutions": 23,
+                "simple_resolutions": 132
+            },
+            "measures_reported_total": {
+                "total": 307,
+                "senate_bills": 3,
+                "house_bills": 213,
+                "house_joint_resolutions": 3,
+                "house_concurrent_resolutions": 2,
+                "simple_resolutions": 86
+            },
+            "special_reports": 50,
+            "conference_reports": 3,
+            "measures_pending_on_calendar": 84,
+            "measures_introduced_total": {
+                "total": 4456,
+                "bills": 3756,
+                "joint_resolutions": 97,
+                "concurrent_resolutions": 95,
+                "simple_resolutions": 508
+            },
+            "quorum_calls": 3,
+            "yea_and_nay_votes": 275,
+            "recorded_votes": 671
+        },
+        "total": {
+            "public_bills_enacted_into_law": 90,
+            "measures_passed_total": {
+                "total": 786
+            },
+            "measures_reported_total": {
+                "total": 492
+            },
+            "measures_introduced_total": {
+                "total": 6903
+            }
+        }
+    },
+    "disposition_of_executive_nominations": {
+        "start_date": "2011-01-05T00:00:00.000Z",
+        "end_date": "2012-01-03T00:00:00.000Z",
+        "civilian_nominees": {
+            "total": 503,
+            "disposition": {
+                "confirmed": 285,
+                "unconfirmed": 188,
+                "withdrawn": 18,
+                "returned_to_white_house": 12
+            }
+        },
+        "other_civilian_nominees": {
+            "total": 3469,
+            "disposition": {
+                "confirmed": 3297,
+                "unconfirmed": 167,
+                "returned_to_white_house": 5
+            }
+        },
+        "air_force_nominees": {
+            "total": 5983,
+            "disposition": {
+                "confirmed": 5688,
+                "unconfirmed": 295
+            }
+        },
+        "army_nominees": {
+            "total": 5892,
+            "disposition": {
+                "confirmed": 5892,
+                "unconfirmed": 16
+            }
+        },
+        "navy_nominees": {
+            "total": 3405,
+            "disposition": {
+                "confirmed": 3404,
+                "unconfirmed": 1
+            }
+        },
+        "marine_corps_nominees": {
+            "total": 1249,
+            "disposition": {
+                "confirmed": 1249
+            }
+        },
+        "summary": {
+            "total_nominees_received_this_session": 20517,
+            "total_confirmed": 19815,
+            "total_unconfirmed": 667,
+            "total_withdrawn": 23,
+            "total_returned_to_white_house": 12
+        }
+    },
+    "footnote": {
+        "resume.legislative_activity.senate.measures_reported_total.total": "These figures include all measures reported. even if there was no accompanying report. A total of 132 reports have been filed in the Senate, a total of 353 reports have been filed in the House",
+        "resume.legislative_activity.house.measures_reported_total.total": "These figures include all measures reported. even if there was no accompanying report. A total of 132 reports have been filed in the Senate, a total of 353 reports have been filed in the House"
+    }
+}
