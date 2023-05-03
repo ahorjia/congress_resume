@@ -1,6 +1,3 @@
-#########################
-## This is unused
-#########################
 import json
 import jsonschema
 import os
