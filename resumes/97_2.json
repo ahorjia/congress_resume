@@ -5,9 +5,9 @@
     "session": 2,
     "report_date": "1983-01-25T05:00:00.000Z",
     "legislative_activity": {
+        "start_date": "1982-01-25T05:00:00.000Z",
+        "end_date": "1982-12-23T05:00:00.000Z",
         "senate": {
-            "start_date": "1982-01-25T05:00:00.000Z",
-            "end_date": "1982-12-23T05:00:00.000Z",
             "days_in_session": 147,
             "time_in_session": "PT1079H55M",
             "congressional_record": {
