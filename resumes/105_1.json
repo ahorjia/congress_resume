@@ -49,7 +49,7 @@
     },
     "house": {
       "days_in_session": 132,
-      "time_in_session": "P1003H42M",
+      "time_in_session": "PT1003H42M",
       "congressional_record": {
         "pages_of_proceedings": 10963,
         "extensions_of_remarks": 2425

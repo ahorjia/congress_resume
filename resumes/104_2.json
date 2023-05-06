@@ -9,7 +9,7 @@
         "end_date": "1996-10-03T05:00:00.000Z",
         "senate": {
             "days_in_session": 132,
-            "time_in_session": "P1036H45M",
+            "time_in_session": "PT1036H45M",
             "congressional_record": {
                 "pages_of_proceedings": 12471,
                 "extensions_of_remarks": 1951
@@ -52,7 +52,7 @@
         },
         "house": {
             "days_in_session": 122,
-            "time_in_session": "P919H12M",
+            "time_in_session": "PT919H12M",
             "congressional_record": {
                 "pages_of_proceedings": 12304,
                 "extensions_of_remarks": 1951

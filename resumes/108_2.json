@@ -9,7 +9,7 @@
         "end_date": "2004-12-31T05:00:00.000Z",
         "senate": {
             "days_in_session": 133,
-            "time_in_session": "P1031H31M",
+            "time_in_session": "PT1031H31M",
             "congressional_record": {
                 "pages_of_proceedings": 12087,
                 "extensions_of_remarks": 2212

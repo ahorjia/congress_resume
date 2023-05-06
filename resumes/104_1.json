@@ -9,7 +9,7 @@
     "end_date": "1996-01-03T05:00:00.000Z",
     "senate": {
       "days_in_session": 211,
-      "time_in_session": "P1839H10M",
+      "time_in_session": "PT1839H10M",
       "congressional_record": {
         "pages_of_proceedings": 19345
       },
@@ -48,7 +48,7 @@
     },
     "house": {
       "days_in_session": 168,
-      "time_in_session": "P1525H25M",
+      "time_in_session": "PT1525H25M",
       "congressional_record": {
         "pages_of_proceedings": 15658,
         "extensions_of_remarks": 2455

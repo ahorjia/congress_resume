@@ -9,7 +9,7 @@
     "end_date": "1998-10-21T00:00:00.000Z",
     "senate": {
       "days_in_session": 143,
-      "time_in_session": "P1095H05M",
+      "time_in_session": "PT1095H05M",
       "congressional_record": {
         "pages_of_proceedings": 13004
       },
@@ -48,7 +48,7 @@
     },
     "house": {
       "days_in_session": 119,
-      "time_in_session": "P997H42M",
+      "time_in_session": "PT997H42M",
       "congressional_record": {
         "pages_of_proceedings": 12048,
         "extensions_of_remarks": 2367

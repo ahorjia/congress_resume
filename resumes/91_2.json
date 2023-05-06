@@ -9,7 +9,7 @@
         "end_date": "1971-01-02T05:00:00.000Z",
         "senate": {
             "days_in_session": 208,
-            "time_in_session": "P1424H51M",
+            "time_in_session": "PT1424H51M",
             "congressional_record": {
                 "pages_of_proceedings": 21852
             },

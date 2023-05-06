@@ -9,7 +9,7 @@
         "end_date": "2012-01-03T00:00:00.000Z",
         "senate": {
             "days_in_session": 170,
-            "time_in_session": "P1101H44M",
+            "time_in_session": "PT1101H44M",
             "congressional_record": {
                 "pages_of_proceedings": 8793
             },

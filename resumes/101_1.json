@@ -9,7 +9,7 @@
         "end_date": "1989-11-22T05:00:00.000Z",
         "senate": {
             "days_in_session": 136,
-            "time_in_session": "P1003H19M",
+            "time_in_session": "PT1003H19M",
             "congressional_record": {
                 "pages_of_proceedings": 16944
             },
