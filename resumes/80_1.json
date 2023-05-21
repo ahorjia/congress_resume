@@ -90,11 +90,9 @@
       },
       "quorum_calls": 69,
       "yea_and_nay_votes": 84,
-      "bills_vetoed": {
-        "total": 24,
-        "regular_vetoes": 7,
-        "pocket_vetoes": 17
-      },
+      "bills_vetoed": 24,
+      "regular_vetoes": 7,
+      "pocket_vetoes": 17,
       "vetoes_overridden": 1
     },
     "total": {
@@ -122,11 +120,9 @@
       },
       "quorum_calls": 401,
       "yea_and_nay_votes": 222,
-      "bills_vetoed": {
-        "total": 32,
-        "regular_vetoes": 13,
-        "pocket_vetoes": 19
-      },
+      "bills_vetoed": 32,
+      "regular_vetoes": 13,
+      "pocket_vetoes": 19,
       "vetoes_overridden": 1
     }
   },
