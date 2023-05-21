@@ -45,11 +45,9 @@
       },
       "quorum_calls": 332,
       "yea_and_nay_votes": 138,
-      "bills_vetoed": {
-        "total": 8,
-        "regular_vetoes": 6,
-        "pocket_vetoes": 2
-      }
+      "bills_vetoed": 8,
+      "regular_vetoes": 6,
+      "pocket_vetoes": 2
     },
     "house": {
       "days_in_session": 144,
