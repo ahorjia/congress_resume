@@ -17,7 +17,7 @@
       "measures_passed_total": {
         "total": 841,
         "senate_bills": 278,
-        "house_bills": 138,
+        "house_bills": 368,
         "senate_joint_resolutions": 47,
         "house_joint_resolutions": 30,
         "senate_concurrent_resolutions": 12,
@@ -53,7 +53,7 @@
       "days_in_session": 144,
       "time_in_session": "PT686H2M",
       "congressional_record": {
-        "pages_of_proceedings": 5379
+        "pages_of_proceedings": 5739
       },
       "public_bills_enacted_into_law": 275,
       "private_bills_enacted_into_law": 94,
@@ -166,7 +166,7 @@
       }
     },
     "summary": {
-      "total_nominees_received_this_session": 40672,
+      "total_nominees_received_this_session": 40557,
       "total_withdrawn": 132,
       "total_unconfirmed": 570,
       "total_confirmed": 39855
