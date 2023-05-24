@@ -1,59 +1,59 @@
 {
   "url": "https://www.senate.gov/reference/resources/pdf/Resumes/115_2.pdf",
   "created_date": "2023-02-02T08:00:00.000Z",
-  "congress":115 ,
+  "congress": 115,
   "session": 2,
-  "report_date": "2019-04-11T05:00:00.000Z" ,
+  "report_date": "2019-04-11T05:00:00.000Z",
   "legislative_activity": {
-    "start_date": "2018-01-03T05:00:00.000Z" ,
-    "end_date": "2019-01-03T05:00:00.000Z" ,                              
+    "start_date": "2018-01-03T05:00:00.000Z",
+    "end_date": "2019-01-03T05:00:00.000Z",
     "senate": {
-      "days_in_session":191 ,
-      "time_in_session": "PT1015H29M" ,
+      "days_in_session": 191,
+      "time_in_session": "PT1015H29M",
       "congressional_record": {
         "pages_of_proceedings": 8065
       },
-      "public_bills_enacted_into_law":108 ,
-      "bill_in_conference":1 ,
+      "public_bills_enacted_into_law": 108,
+      "bills_in_conference": 1,
       "measures_passed_total": {
-        "total":641 ,
-        "senate_bills":145 ,
+        "total": 641,
+        "senate_bills": 145,
         "house_bills": 224,
         "senate_joint_resolutions": 7,
         "house_joint_resolutions": 1,
-        "senate_concurrent_resolutions":14 ,
-        "house_concurrent_resolutions":15 ,
-        "simple_resolutions":235 
+        "senate_concurrent_resolutions": 14,
+        "house_concurrent_resolutions": 15,
+        "simple_resolutions": 235
       },
       "measures_reported_total": {
-        "total":385 ,
+        "total": 385,
         "senate_bills": 252,
         "house_bills": 114,
-        "senate_joint_resolutions":1 ,
+        "senate_joint_resolutions": 1,
         "simple_resolutions": 18
       },
-      "special_reports":14 ,
-      "conference_reports":4 ,
+      "special_reports": 14,
+      "conference_reports": 4,
       "measures_pending_on_calendar": 405,
       "measures_introduced_total": {
         "total": 1967,
         "bills": 1540,
-        "joint_resolutions":18 ,
-        "concurrent_resolutions":28 ,
-        "simple_resolutions":381 
+        "joint_resolutions": 18,
+        "concurrent_resolutions": 28,
+        "simple_resolutions": 381
       },
-      "quorum_calls":2 ,
-      "yea_and_nay_votes":274 
+      "quorum_calls": 2,
+      "yea_and_nay_votes": 274
     },
     "house": {
       "days_in_session": 174,
-      "time_in_session":  "PT657H46M",
+      "time_in_session": "PT657H46M",
       "congressional_record": {
         "pages_of_proceedings": 10612,
         "extensions_of_remarks": 1751
       },
       "public_bills_enacted_into_law": 221,
-      "private_bills_enacted_into_law":1,
+      "private_bills_enacted_into_law": 1,
       "bills_in_conference": 1,
       "measures_passed_total": {
         "total": 816,
@@ -85,9 +85,9 @@
       "quorum_calls": 2,
       "yea_and_nay_votes": 326,
       "recorded_votes": 172
-     },
+    },
     "total": {
-       "measures_passed_total": {
+      "measures_passed_total": {
         "total": 1457
       },
       "measures_reported_total": {
@@ -99,8 +99,8 @@
     }
   },
   "disposition_of_executive_nominations": {
-    "start_date": "2018-01-03T05:00:00.000Z" ,
-    "end_date": "2019-01-03T05:00:00.000Z" ,
+    "start_date": "2018-01-03T05:00:00.000Z",
+    "end_date": "2019-01-03T05:00:00.000Z",
     "civilian_nominees": {
       "total": 710,
       "carried_over_from_first_session": 146,
@@ -108,7 +108,6 @@
         "confirmed": 392,
         "unconfirmed": 296,
         "withdrawn": 22
-      
       }
     },
     "other_civilian_nominees": {
@@ -143,7 +142,7 @@
       "disposition": {
         "confirmed": 4462,
         "unconfirmed": 1
-            }
+      }
     },
     "marine_corps_nominees": {
       "total": 1347,
@@ -152,17 +151,13 @@
         "unconfirmed": 2
       }
     },
-
-        "summary": {
-          "total_nominees_carried_over_from_first_session": 247,
-          "total_nominees_received_this_session": 21855,
-          "total_confirmed": 21751,
-          "total_unconfirmed": 225,
-          "total_withdrawn": 24
-          
-        }
-      
-    
+    "summary": {
+      "total_nominees_carried_over_from_first_session": 247,
+      "total_nominees_received_this_session": 21855,
+      "total_confirmed": 21751,
+      "total_unconfirmed": 225,
+      "total_withdrawn": 24
+    }
   },
   "footnote": {
     "resume.legislative_activity.senate.measures_reported_total.total": "These figures include all measures reported. even if there was no accompanying report. A total of 132 reports have been filed in the Senate, a total of 353 reports have been filed in the House",

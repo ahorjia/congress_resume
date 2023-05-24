@@ -99,7 +99,7 @@
       },
       "public_bills_enacted_into_law": 316,
       "private_bills_enacted_into_law": 341,
-      "bill_in_conference": 5,
+      "bills_in_conference": 5,
       "bills_through_conference": 33,
       "measures_passed_total": {
         "simple_resolutions": 311

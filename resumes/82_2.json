@@ -98,7 +98,7 @@
       },
       "public_bills_enacted_into_law": 339,
       "private_bills_enacted_into_law": 612,
-      "bill_in_conference": 4,
+      "bills_in_conference": 4,
       "bills_through_conference": 90,
       "measures_passed_total": {
         "total": 2332,
